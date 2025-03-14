@@ -28,7 +28,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<p>
+  
+- See first "azure compute & networking directory" (https://github.com/victoriadeery/azure-computing-and-networking) and osTicket prereqs repositories (https://github.com/victoriadeery/osticket-prereqs)
+- Resources:
+  - Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+  - End Users osTicket URL: http://localhost/osTicket 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
