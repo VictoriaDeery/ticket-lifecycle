@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 <p>
   
-- See first "azure compute & networking directory" (https://github.com/victoriadeery/azure-computing-and-networking) and osTicket prereqs repositories (https://github.com/victoriadeery/osticket-prereqs)
+- See first "azure compute & networking directory" (https://github.com/victoriadeery/azure-computing-and-networking), osTicket prereqs repositories (https://github.com/victoriadeery/osticket-prereqs), and 
+  - [osTicket: Post-Installation Configuration](https://github.com/victoriadeery/post-install-config)
 - Resources:
   - Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
   - End Users osTicket URL: http://localhost/osTicket 
