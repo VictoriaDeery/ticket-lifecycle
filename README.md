@@ -46,16 +46,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/919a6ca1-c618-4e6d-be45-300c05d6a24f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   </p>
- 2. Log into the admin login page as agent John and observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Set properties to the ticket. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious. Now change the ticket for accuracy. Select SLA default plan and change it from default to Sev-A with description "wide impact. customers unable to do online banking". Change the help topic by selecting its "report a problem" and changing it to  "business critical outage" with the note "no customers able to access online banking" and change the assignment to "online banking with the note "customers not able to access online banking portal, assigning to online banking team". If the page is refreshed, these changes will show recorded.
+ 2. Log into the admin login page as agent John and observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Set properties to the ticket. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious. Now change the ticket for accuracy. Select SLA default plan and change it from default to Sev-A with description "wide impact. customers unable to do online banking". Change the help topic by selecting its "report a problem" and changing it to  "business critical outage" with the note "no customers able to access online banking" and change the assignment to "online banking" or "jane doe"  with the note "customers not able to access online banking portal, assigning to Jane Doe who is part of the online banking team". Change priority from normal to emergency. If the page is refreshed, all of these changes will show recorded.
 
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/7ca61e68-ca40-4195-b3a1-453fedb36346" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/905f6453-efe6-465b-8e5b-69e6cdd9ae62" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Go to the admin login page and log in as adminagent John.
+3. Go to the admin login page and log in as agent Jane. If the ticket was assigned to online banking, click "online banking" next to assignment and write a note for the team like "I'll take this ticket" then give a response such as "I suspect the problem might be related to the recent updates. We have tested them sufficiently, but we will test them further and roll them back if it is determined that was the cause." Then suppose Jane was correct in her assumption and fixed the problem, she would send another messgae like "It was determined that the root cause was the recent update. We rolled it back, notified the vender, and are waiting for a proper fix. Online banking should now be up and running." Then set the status to "resloved"
 </p>
 <br />
 
@@ -63,6 +63,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. As the end user create a ticket for "accounting department needs adobe upgrade, broken" (help topic: general inquiry, other) (issue summary:accounting dept needs adobe upgrade) (message:it looks like many people in the accounting department  can not use their adobe software.) and then Work the ticket to completion as John. Note, the client requested an upgrade but that might noe be whats needed, so be sure to inspect their computer and figure out why the problem is happening. 
+<p>
+  
 </p>
+As usual, first reach out to the client and gather details. 
+<p>
+  
+</p>In this supposed conversation with end user Karen, you find out only two people and not the whole department is dealing with this issue, so change the severity to Sev-C. Then assign it to yourslef as John Doe. pick up at 24 minutes
 <br />
