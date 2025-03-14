@@ -41,12 +41,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/4ad69531-5182-447e-bf4b-6ba7583dfb03" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Open a new ticket at http://localhost/osTicket/ as enduser, Karen, who inputs "report a problem" for the hlp topic when it is a more severe issue that needs to be filed under the help topic "business critical issue."
+1. Open a new ticket at http://localhost/osTicket/ as enduser, Karen, who inputs "report a problem" for the help topic when it is a more severe issue that needs to be filed under the help topic "business critical issue."
   <p>
-<img src="https://github.com/user-attachments/assets/0186902e-4b7e-4725-886f-57a0b3f407f9"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/919a6ca1-c618-4e6d-be45-300c05d6a24f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   </p>
- 2. Log into the admin login page in the agent panel (so you see admin panel is an option to click on but do not) and observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Set properties to the ticket. Select SLA plan and change it from default to Sev-A.
+ 2. Log into the admin login page as agent John and observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Set properties to the ticket. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious. Now change the ticket for accuracy. Select SLA default plan and change it from default to Sev-A with description "wide impact. customers unable to do online banking". Change the help topic by selecting its "report a problem" and changing it to  "business critical outage" with the note "no customers able to access online banking" and change the assignment to "online banking with the note "customers not able to access online banking portal, assigning to online banking team". If the page is refreshed, these changes will show recorded.
 
 </p>
 <br />
@@ -55,7 +55,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/7ca61e68-ca40-4195-b3a1-453fedb36346" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Go to the admin login page and log in as adminagent John. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious.
+3. Go to the admin login page and log in as adminagent John.
 </p>
 <br />
 
