@@ -41,7 +41,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/4ad69531-5182-447e-bf4b-6ba7583dfb03" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Open a new ticket at http://localhost/osTicket/ as enduser, Karen, who inputs "report a problem" for the hlp topic when it is a more severe issue that needs to be filed under the help topic "business critical issue." Go to the admin login page and log in as agent John. And observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious.
+1. Open a new ticket at http://localhost/osTicket/ as enduser, Karen, who inputs "report a problem" for the hlp topic when it is a more severe issue that needs to be filed under the help topic "business critical issue."
+  <p>
+<img src="https://github.com/user-attachments/assets/0186902e-4b7e-4725-886f-57a0b3f407f9"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  </p>
+ 2. Log into the admin login page in the agent panel (so you see admin panel is an option to click on but do not) and observe  the ticket’s properties: Priority, Department, SLA, Assigned To. Set properties to the ticket. Select SLA plan and change it from default to Sev-A.
 
 </p>
 <br />
@@ -50,7 +55,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/7ca61e68-ca40-4195-b3a1-453fedb36346" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.Set properties to the ticket. Select SLA plan and change it from default to Sev-A. Go to the admin login page and log in as agent John.
+3. Go to the admin login page and log in as adminagent John. Notice the message looks serious so ideally call them to gauge the severity by their tone of voice and details, but at least message them if that is not possible, as it seems serious.
 </p>
 <br />
 
