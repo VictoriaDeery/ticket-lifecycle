@@ -60,7 +60,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4257157a-a6a2-4b4f-a41c-a090c67b530a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. As the end user create a ticket for "accounting department needs adobe upgrade, broken" (help topic: general inquiry, other) (issue summary:accounting dept needs adobe upgrade) (message:it looks like many people in the accounting department  can not use their adobe software.) and then Work the ticket to completion as John. Note, the client requested an upgrade but that might noe be whats needed, so be sure to inspect their computer and figure out why the problem is happening. 
@@ -70,5 +70,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 As usual, first reach out to the client and gather details. 
 <p>
   
-</p>In this supposed conversation with end user Karen, you find out only two people and not the whole department is dealing with this issue, so change the severity to Sev-C. Then assign it to yourslef as John Doe. pick up at 24 minutes
+</p>In this supposed conversation with end user Karen, you find out only two people and not the whole department is dealing with this issue, so change the severity to Sev-C. Then assign it to yourslef as John Doe. And work the ticket, after a hypothetical phone call with Karen in which you recommended a restart and she will try it after lunch so you may update it with something like "Cx states only 2 people in the accounting dept are unable to open and use adobe reader. Cx testing a restart and will call back after lunch." Cx means customer. Let's say that resolved the issue, so you would post one more reply before changing the status of the ticket to "resolved" with the note "Restart fixed the issue for both users" and select "close." To view closed tickets, look at the "closed tickets" tab.
 <br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/17c868ff-8352-49b5-8bbf-aa5e6d476399" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5. Let's do another mock ticket fom enduser, Karen "CFO’s laptop will no longer turn on," a personal computer problem. Then in the agent panel as John, navigate to open tickets to work it (priority, Dept, SLA, assigned to) and (Intake, Assignment and Communication, Working the Issue, Resolution.) Since it is the CFO, I will change the priority to emergency, and the severity to Sev-B for now. And assign it to yourself, John. As always, contact the ticket maker, call the CFO especially since his laptop isnt working or reach out to Karen, or find a way to check out the computer. Lets say his charger was broken and the battery died. update the ticktet "CFO's laptop was not charging due to broken charger. Brought new charger. Now successfully charging" (note it could have been the inverter in the mmonitor was broken and the computer is on but nothing being shown on the screen. Anyways, resolve the ticket, changing its status, with the note "Charger was broken, due to this battery was dead and unable to turn on the laptop."
+</p>
+<br />
+
