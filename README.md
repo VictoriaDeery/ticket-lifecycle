@@ -81,4 +81,10 @@ As usual, first reach out to the client and gather details.
 5. Let's do another mock ticket fom enduser, Karen "CFO’s laptop will no longer turn on," a personal computer problem. Then in the agent panel as John, navigate to open tickets to work it (priority, Dept, SLA, assigned to) and (Intake, Assignment and Communication, Working the Issue, Resolution.) Since it is the CFO, I will change the priority to emergency, and the severity to Sev-B for now. And assign it to yourself, John. As always, contact the ticket maker, call the CFO especially since his laptop isnt working or reach out to Karen, or find a way to check out the computer. Lets say his charger was broken and the battery died. update the ticktet "CFO's laptop was not charging due to broken charger. Brought new charger. Now successfully charging" (note it could have been the inverter in the mmonitor was broken and the computer is on but nothing being shown on the screen. Anyways, resolve the ticket, changing its status, with the note "Charger was broken, due to this battery was dead and unable to turn on the laptop."
 </p>
 <br />
+Also, agents may create tickets for users by going to ticket -> new ticket -> and filling it out accrodingly.
+  <p>
+  </p>
+AndSAAS application like ServiceNow are much more common in the workforce than osTicket but the communications flow, SLA, permissions, assigning the ticket, email, etc. So it is useful practice to use osTicket.
+<p>
 
+</p>
